@@ -37,8 +37,7 @@ public class ArrayListDemo {
 		//and printing whether it is in our list or not
 		if(names.contains("Henry")) {
 			System.out.println("Henry is in the list!");
-		}
-		else {
+		} else {
 			System.out.println("Henry is not in the list.");
 		}
 		
